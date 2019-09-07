@@ -1,5 +1,5 @@
 # EC2_using_Ansible
-## This is an ansible playbook to create an AWS ec2 instance. You need to configure the AWS ID & key and install python boto3 before running the playbook. 
+## This is an ansible playbook to create an AWS ec2 instance. You need to configure the AWS ID & key and install python boto3 in the Ansible master server before running the playbook. 
 
 ```ansible
 ---
